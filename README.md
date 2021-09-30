@@ -31,16 +31,18 @@ Intensive ends Friday afternoon with each student giving a 3 minute pitch of the
 
 |          Date        |                 Topics                    |
 :---------------------:|:-----------------------------------------:|
-| **Monday, 10/13**    |  **HOLIDAY - NO SESSIONS**                |
+| **Monday, 10/13**    |  Proposal Approval                |
 | **Tuesday, 10/15**   |  [Intensive Kickoff Slides](https://docs.google.com/presentation/d/1xknARlZ0AC524tc7nG2uo8eWIfdiurp30TRMy9RAycA/edit#slide=id.p), [Intensive Kickoff Video](https://drive.google.com/file/d/1cT9mQbqjiDNWOvB6uJdnxE6MNl29Zno4/view?usp=sharing)                        |
 |                      |  [Scoping Projects 2.0](http://make.sc/mvp-scope)         |
 |                      |  Brainstorm Product idea [Optional]       |
 |                      |  Wireframe Testing [Optional]             |
 |                      |  Finalize Intensive Proposal              |
 | **Wednesday, 10/16** |  Checkin Standup                          |
-|                      |  Project Planning                         |
+|                      |  Your first Shipping Experience - First years Github Pages   |
+|                      |   Shipping Office Hours  |
 | **Thursday, 10/17**  |  Checkin Standup                          |
 |                      |  [Product Pitch Training](https://docs.google.com/presentation/d/1AnLBMhwhJ-r77iy1mDH-se76BFDhyOukJ4_0elZUZdU/edit#slide=id.p), [Product Pitch Training Video](https://drive.google.com/file/d/1l4iN7Pu8uQF8owxY4ltAitw1IUBlj7bE/view?usp=sharing)                |
+|                      |   Shipping Office Hours  |
 | **Monday, 10/19**    |  Checkin Standup                          |
 |                      |  Product Pitch Presentations               |
 
